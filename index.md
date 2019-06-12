@@ -1,3 +1,3 @@
 # Haunted Sacramento
 
-## [Locations](locations.md)
+## [Locations](Locations/locations.md)
