@@ -1,1 +1,3 @@
 # Haunted Sacramento
+
+## Locations
